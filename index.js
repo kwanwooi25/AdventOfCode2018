@@ -18,7 +18,12 @@
 //   console.log(`AdventOfCode2018 Part ${index + 1} of Day 4 Answer: ${answer}`)
 // });
 
-// Day 5
-require('./day5/solution').forEach((answer, index) => {
-  console.log(`AdventOfCode2018 Part ${index + 1} of Day 5 Answer: ${answer}`)
+// // Day 5
+// require('./day5/solution').forEach((answer, index) => {
+//   console.log(`AdventOfCode2018 Part ${index + 1} of Day 5 Answer: ${answer}`)
+// });
+
+// Day 6
+require('./day6/solution').forEach((answer, index) => {
+  console.log(`AdventOfCode2018 Part ${index + 1} of Day 6 Answer: ${answer}`)
 });
